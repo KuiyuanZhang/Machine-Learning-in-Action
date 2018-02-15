@@ -8,7 +8,7 @@
 
 [第二章 k-近邻算法 ](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter2/KNN.ipynb)
 
-[第三章 决策树](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter3/.ipynb)
+[第三章 决策树](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter3/tree.ipynb)
 
 [第四章 基于概率论的分类方法：朴素贝叶斯 ](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter4/bayes.ipynb)
 
@@ -22,7 +22,7 @@
 
 [第八章 预测数值型数据：回归 ](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter2/KNN.ipynb)
 
-[第九章 树回归 ](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter2/KNN.ipynb)
+[第九章 树回归 ](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter9/cart_tree.ipynb)
 
 ### 3. 无监督学习
 
