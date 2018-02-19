@@ -8,13 +8,13 @@
 
 [第二章 k-近邻算法 ](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter2/KNN.ipynb)
 
-[第三章 决策树](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter3/tree.ipynb)
+[第三章 决策树](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter3/tree.ipynb)
 
 [第四章 基于概率论的分类方法：朴素贝叶斯 ](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter4/bayes.ipynb)
 
-[第五章  Logistic回归](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter5/logistic.ipynb)
+[第五章  Logistic回归](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter5/Logistic.ipynb)
 
-[第六章 支持向量机_非核 ](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter6/SVM_no_kernel.ipynb)                                 [第六章 支持向量机_核 ](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter6/SVM_kernel.ipynb)
+[第六章 支持向量机_非核 ](http://nbviewer.jupyter.org/github/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter6/SVM_no_kernel.ipynb)                                 [第六章 支持向量机_核 ](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter6/SVM_kernel.ipynb)
 
 [第七章 利用AdaBoost元算法提高分类性能 ](https://github.com/KuiyuanZhang/Machine-Learning-in-Action/tree/master/chapter7/AdaBoost.ipynb)
 
